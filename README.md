@@ -11,4 +11,4 @@ project Overview : Resume
 
 Technology Used : HTML
 
-![image alt]()
+![image alt](https://github.com/ayushmoudekar/Resume/blob/a4eed3f290f4d992fe6514017262f71f7509a5b0/Output.png)
